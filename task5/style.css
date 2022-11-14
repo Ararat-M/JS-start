@@ -1,0 +1,20 @@
+.section-form {
+    background: #FFFFFF;
+    border-radius: 5px;
+    padding: 15px;
+    margin-top: 15px;
+    min-height: 200px;
+}
+
+#submitBtn {
+    color: #CC9933;
+    background: #FFFFFF;
+    border: 1px solid #CC9933;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+
+#submitBtn:hover {
+    color: #FFFFFF;
+    background: #CC9933;
+}

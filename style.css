@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+body {
+    background: #E5E5E5;
+    margin-left: 25px;
+}
+
+ul {
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+li {
+    list-style: none;
+    margin-bottom: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: #CC9933;
+    font-size: 24px;
+    line-height: 24px;
+    font-weight: 400;
+}
